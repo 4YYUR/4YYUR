@@ -18,4 +18,4 @@ Hi, im Ayyur I'm a web developer, with extensive knowledge and 3+ years of exper
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a> Email: a@ayyur.xyz</p>
+<p align="center">🔗 Email: a@ayyur.xyz</p>
